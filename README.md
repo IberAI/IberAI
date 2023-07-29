@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/IberAI/IberAI/blob/main/with2.png?raw=true" alt="Banner Image">
+</p>
+
 <h1 align="center">Hello, i am Iber.</h1>
 <h3 align="center">Im a tech maniac specialized in software.</h3>
 
