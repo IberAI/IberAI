@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iberai&label=Profile%20views&color=d736f7&style=flat" alt="iberai" /> </p>
 
-- 🌱 I’m currently learning **communications & networking.**
+- 🌱 I’m currently learning **Rust & Webassembly.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/IberAI?tab=repositories](https://github.com/IberAI?tab=repositories)
 
