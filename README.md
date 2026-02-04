@@ -4,67 +4,104 @@
 </p>
 
 <!-- Title -->
-<h1 align="center">👋 Hey, I'm <span style="color:#d736f7;">Iber</span></h1>
-<h3 align="center">⚡ Master Architect • Systems & Web Enthusiast ⚡</h3>
+<h1 align="center">Hey, I'm Iber</h1>
+<h3 align="center">Systems & Web Developer • Performance-First Builder</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iberai&label=Visitors&color=8e24aa&style=for-the-badge" alt="profile views" />
   <a href="https://github.com/IberAI?tab=followers">
     <img src="https://img.shields.io/github/followers/IberAI?label=Followers&color=7c4dff&style=for-the-badge" alt="followers" />
   </a>
-  <a href="https://x.com/iber_nerd">
-    <img src="https://img.shields.io/twitter/follow/iber_nerd?label=Twitter&color=1da1f2&style=for-the-badge" alt="twitter" />
-  </a>
 </p>
 
----
+<hr />
 
-### 🧠 Currently Exploring
-- 🦀 Mastering **Rust** & **WebAssembly**
-- 🌐 Building efficient browser-native bridges with system-level integrations
-- 🧩 Constantly experimenting and pushing the limits of performance-driven code
+<h3>Focus</h3>
 
----
+<ul>
+  <li>Rust and WebAssembly</li>
+  <li>Browser-native tooling with system-level integrations</li>
+  <li>Performance-first architecture, profiling, and optimization</li>
+</ul>
 
-### 🤖 About Me
-I’m a curious developer who thrives on exploring the **intersection of systems and the web** — from low-level C and Rust to high-level React and TypeScript.  
-I enjoy crafting tools, experimenting with architectures, and making complex things simple, elegant and fast.
+<hr />
 
----
+<h3>About</h3>
 
-### 🧰 Languages & Tools
+<p>
+  I build at the intersection of systems and the web — from low-level C and Rust to React and TypeScript.
+  I like shipping tools, clean architectures, and fast, reliable software.
+</p>
+
+<hr />
+
+<h3>Core Stack</h3>
+
+<p>
+  Languages: Rust, TypeScript, C<br />
+  Web: React, Node.js, WebAssembly<br />
+  Platform: Linux, Docker<br />
+  Tooling: Git, VS Code, Unity
+</p>
+
+<hr />
+
+<h3>Featured</h3>
+
+<ul>
+  <li><a href="https://github.com/IberAI?tab=repositories">Repositories</a> (pin your best work on the profile for maximum impact)</li>
+  <li><a href="https://github.com/IberAI">Open-source work</a></li>
+</ul>
+
+<hr />
+
+<h3>Commit Activity</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,wasm,nodejs,react,typescript,linux,c,unity,docker,vscode,git" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=IberAI&theme=react-dark&hide_border=true"
+    alt="Commit activity graph"
+  />
 </p>
 
----
+<hr />
 
-### 📊 GitHub Stats
+<h3>Profile Summary</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=IberAI&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IberAI&theme=radical"
+    alt="Profile summary"
+  />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IberAI&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IberAI&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://x.com/iber_nerd" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" />
-  </a>
-  <a href="https://github.com/IberAI" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" />
-  </a>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IberAI&theme=radical"
+    alt="Stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IberAI&theme=radical&utcOffset=-5"
+    alt="Productive time"
+  />
 </p>
 
----
+<hr />
 
-### 💬 Quote
-> *"We made a rock think"*  
+<h3>Connect</h3>
 
+<p align="center">
+  <a href="https://x.com/iber_nerd" target="_blank" rel="noreferrer">X</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/IberAI" target="_blank" rel="noreferrer">GitHub</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/ulucdover/" target="_blank" rel="noreferrer">LinkedIn</a>
+</p>
+
+<hr />
+
+<h3>Quote</h3>
+
+<blockquote>
+  We made a rock think
+</blockquote>
