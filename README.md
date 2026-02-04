@@ -47,10 +47,8 @@
 <hr />
 
 <h3>Featured</h3>
-
 <ul>
-  <li><a href="https://github.com/IberAI?tab=repositories">Repositories</a> (pin your best work on the profile for maximum impact)</li>
-  <li><a href="https://github.com/IberAI">Open-source work</a></li>
+  <li><a href="https://myloops.co/" target="_blank" rel="noreferrer">MyLoops</a></li>
 </ul>
 
 <hr />
